@@ -1,0 +1,19 @@
+{
+  "name": "react-atomizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran-S-heikh",
+  "license": "ISC",
+  "dependencies": {
+    "atomizer": "^3.9.1",
+    "chokidar": "^3.5.2",
+    "yargs": "^17.0.1"
+  },
+  "bin": {
+    "react-atomizer": "index.js"
+  }
+}
