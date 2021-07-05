@@ -15,5 +15,14 @@
   },
   "bin": {
     "react-atomizer": "index.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imran-S-heikh/react-atomizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Imran-S-heikh/react-atomizer/issues"
+  },
+  "homepage": "https://github.com/Imran-S-heikh/react-atomizer#readme"
+
 }
